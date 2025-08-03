@@ -70,7 +70,7 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 
  ![steam](quietsoundmod/scr18.png)
 
-- Open Tools-Build/AdvancedGenieEditor.exe
+- Open Tools-Builds/AdvancedGenieEditor.exe
 - Select "Age of Empires II: Definitive Edition" and hit "Open"
 
  ![open](quietsoundmod/scr19.png)
