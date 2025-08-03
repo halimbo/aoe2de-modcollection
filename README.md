@@ -64,3 +64,15 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 - Export the files as `.wem`
 
   ![export screenshot](quietsoundmod/scr6.png)
+### 🔁 Convert `.wav` Back to `.wem` (for Use in a Mod)
+
+- Open the game folder
+  ![steam](quietsoundmod/scr19.png)
+
+- Open Tools-Build/AdvancedGenieEditor.exe
+- Select "Age of Empires II: Definitive Edition" and hit "Open"
+
+ ![steam](quietsoundmod/scr20.png)
+
+
+  
