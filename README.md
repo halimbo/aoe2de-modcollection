@@ -9,3 +9,6 @@ Compilation of Mods for Age Of Empires 2
 6. ![Screenshot](quietsoundmod/scr1.png)
 7. ![Screenshot](quietsoundmod/scr2.png)
 8. ![Screenshot](quietsoundmod/scr3.png)
+9. Upload your files
+10. ![Screenshot](quietsoundmod/scr4.png)
+11. ![Screenshot](quietsoundmod/scr5.png)
