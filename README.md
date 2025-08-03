@@ -1,5 +1,5 @@
 # aoe2de-modcollection
-Compilation of Mods for Age Of Empires 2
+How to make a .wem file to use as a mod replacement for sound effects
 
 1. Install WWise Launcher
 2. Have to make an account, and you are not allowed to use it commercially
@@ -9,7 +9,7 @@ Compilation of Mods for Age Of Empires 2
 6. ![Screenshot](quietsoundmod/scr1.png)
 7. ![Screenshot](quietsoundmod/scr2.png)
 8. ![Screenshot](quietsoundmod/scr3.png)
-9. Upload your files
+9. Upload your files (has to be .wav)
 10. ![Screenshot](quietsoundmod/scr4.png)
 11. ![Screenshot](quietsoundmod/scr5.png)
 12. Export them as .wem
