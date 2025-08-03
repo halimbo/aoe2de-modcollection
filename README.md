@@ -19,3 +19,9 @@ How to convert a .wem file to a .wav file so you can eq it with audacity
 
 1. Install vgmstream command line tool
 2. ![Screenshot](quietsoundmod/scr16.png)
+3. open the extracted vgmstream folder in a terminal
+4. ![Screenshot](quietsoundmod/scr12.png)
+5. Copy your .wem file as a path
+6. ![Screenshot](quietsoundmod/scr10.png)
+7. "-o sound.wav" lets you specify the new name
+8. ![Screenshot](quietsoundmod/scr11.png)
