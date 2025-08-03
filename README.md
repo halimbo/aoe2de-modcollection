@@ -1,38 +1,66 @@
 # aoe2de-modcollection
-How to EQ your ingame sound effects:
 
-How to get the .wem files from the game if you cant get them by subscribing to an already built Mod?
-1. ![Screenshot](quietsoundmod/scr13.png)
-2. https://www.scampers.org/steve/sms/other.htm#ravioli_download
-3. This is the tricky part where you go digging into the game files, playing them back with foobar2000 and the vgmstream plugin.
-4. https://vgmstream.org/
-5. ![Screenshot](quietsoundmod/scr17.png)
-6. ![Screenshot](quietsoundmod/scr7.png)
+## 🎧 How to EQ In-Game Sound Effects (AOE2:DE)
 
-How to convert a .wem file to a .wav file so you can eq it with audacity
+---
 
-1. Install vgmstream command line tool
-2. ![Screenshot](quietsoundmod/scr16.png)
-3. open the extracted vgmstream folder in a terminal
-4. ![Screenshot](quietsoundmod/scr12.png)
-5. ![Screenshot](quietsoundmod/scr9.png)
-6. Copy your .wem file as a path
-7. ![Screenshot](quietsoundmod/scr10.png)
-8. "-o sound.wav" lets you specify the new name
-9. ![Screenshot](quietsoundmod/scr11.png)
+### 🔍 Extracting `.wem` Files from the Game
 
-How to convert a .wav file to a .wem file to use as a mod
+If you can't get `.wem` files by subscribing to an existing mod, here's how:
 
-1. Install WWise Launcher
-2. Have to make an account, and you are not allowed to use it commercially
-3. You dont need any of the plugins that are auto selected for the installation process
-4. Make a new Project
-5. Set the Source Encoding to "Vorbis High Quality"
-6. ![Screenshot](quietsoundmod/scr1.png)
-7. ![Screenshot](quietsoundmod/scr2.png)
-8. ![Screenshot](quietsoundmod/scr3.png)
-9. Upload your files (has to be .wav)
-10. ![Screenshot](quietsoundmod/scr4.png)
-11. ![Screenshot](quietsoundmod/scr5.png)
-12. Export them as .wem
-13. ![Screenshot](quietsoundmod/scr6.png)
+- Locate the in-game sound files manually.
+  
+  ![Game files screenshot](quietsoundmod/scr13.png)
+
+- Download **Ravioli Extractor**  
+  [https://www.scampers.org/steve/sms/other.htm#ravioli_download](https://www.scampers.org/steve/sms/other.htm#ravioli_download)
+
+- Use **foobar2000** + **vgmstream plugin** to preview and extract the audio:  
+  [https://vgmstream.org/](https://vgmstream.org/)
+
+  ![vgmstream screenshot](quietsoundmod/scr17.png)  
+  ![foobar screenshot](quietsoundmod/scr7.png)
+
+---
+
+### 🔄 Convert `.wem` to `.wav` (for EQ in Audacity)
+
+- Install **vgmstream command-line tool**
+
+  ![vgmstream folder](quietsoundmod/scr16.png)
+
+- Open the folder in a terminal:
+
+  ![terminal open](quietsoundmod/scr12.png)  
+  ![terminal view](quietsoundmod/scr9.png)
+
+- Copy the path of your `.wem` file
+
+  ![copy path](quietsoundmod/scr10.png)
+
+- Use the `-o sound.wav` option to name your output file
+
+  ![output screenshot](quietsoundmod/scr11.png)
+
+---
+
+### 🔁 Convert `.wav` Back to `.wem` (for Use in a Mod)
+
+- Install **Wwise Launcher**
+- Create a free account (non-commercial use only)
+- Skip all unnecessary plugins during install
+- Create a new Wwise project
+- Set **Source Encoding** to `"Vorbis High Quality"`
+
+  ![wwise encoding](quietsoundmod/scr1.png)  
+  ![wwise settings](quietsoundmod/scr2.png)  
+  ![wwise UI](quietsoundmod/scr3.png)
+
+- Import your `.wav` files
+
+  ![upload files](quietsoundmod/scr4.png)  
+  ![file list](quietsoundmod/scr5.png)
+
+- Export the files as `.wem`
+
+  ![export screenshot](quietsoundmod/scr6.png)
