@@ -1,5 +1,5 @@
 # aoe2de-modcollection
-How to make a .wem file to use as a mod replacement for sound effects
+How to convert a .wav file to a .wem file
 
 1. Install WWise Launcher
 2. Have to make an account, and you are not allowed to use it commercially
@@ -14,3 +14,8 @@ How to make a .wem file to use as a mod replacement for sound effects
 11. ![Screenshot](quietsoundmod/scr5.png)
 12. Export them as .wem
 13. ![Screenshot](quietsoundmod/scr6.png)
+
+How to convert a .wem file to a .wav file so you can eq it with audacity
+
+1. Install vgmstream command line tool
+2. ![Screenshot](quietsoundmod/scr8.png)
