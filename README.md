@@ -1,4 +1,13 @@
 # aoe2de-modcollection
+How to EQ your ingame sound effects:
+
+How to get the .wem files from the game if you cant get them by subscribing to an already built Mod?
+1. ![Screenshot](quietsoundmod/scr13.png)
+2. https://www.scampers.org/steve/sms/other.htm#ravioli_download
+3. This is the tricky part where you go digging into the game files, playing them back with foobar2000 and the vgmstream plugin.
+4. https://vgmstream.org/
+5. ![Screenshot](quietsoundmod/scr17.png)
+6. ![Screenshot](quietsoundmod/scr7.png)
 
 How to convert a .wem file to a .wav file so you can eq it with audacity
 
@@ -27,7 +36,3 @@ How to convert a .wav file to a .wem file to use as a mod
 11. ![Screenshot](quietsoundmod/scr5.png)
 12. Export them as .wem
 13. ![Screenshot](quietsoundmod/scr6.png)
-
-How do you get the .wem files from the game if you cant get them by subscribing to an already built Mod?
-1. ![Screenshot](quietsoundmod/scr13.png)
-2. https://www.scampers.org/steve/sms/other.htm#ravioli_download
