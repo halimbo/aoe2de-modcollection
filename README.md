@@ -15,7 +15,7 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 - Download **Ravioli Extractor**  
   [https://www.scampers.org/steve/sms/other.htm#ravioli_download](https://www.scampers.org/steve/sms/other.htm#ravioli_download)
 
-- Use **foobar2000** + **vgmstream plugin** to preview and extract the audio:  
+- Use **foobar2000** + **vgmstream plugin** to preview and and find the audio you want:  
   [https://vgmstream.org/](https://vgmstream.org/)
 
   ![vgmstream screenshot](quietsoundmod/scr17.png)  
