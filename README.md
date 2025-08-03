@@ -1,5 +1,31 @@
 # aoe2de-modcollection
 
+### Finding the correct Identifier for the  `.wem` (for Use in a Mod)
+
+- The sound effect you are looking for might be in StepS's Spreadsheet
+- https://docs.google.com/spreadsheets/d/1bczdFQksnbLnjI5zAkw-mSpb9MnnxxEkHDiz1PftIHw/edit
+
+- If you can't find it there you might be able to find it with the AdvancedGenieEditor
+- Open the game folder
+
+ ![steam](quietsoundmod/scr18.png)
+
+- Open Tools-Builds/AdvancedGenieEditor.exe
+- Select "Age of Empires II: Definitive Edition" and hit "Open"
+
+ ![open](quietsoundmod/scr19.png)
+
+- Find the ingame unit and then scroll down until you reach the section on sound effects.
+
+![open](quietsoundmod/scr20.png)
+ ![open](quietsoundmod/scr21.png)
+  
+### Replacing and/or Muting Sound Effects
+- The only thing you need is the Identifier (for Use in a Mod).
+- The "Original Sounds" Mod from StepS included a "stub" audio file that is only 1kb and empty. (also included in the Mods "Pasture Mute", "Quiet Sound Mod", ...)
+- We can use this to overwrite any sound effect by putting it in our mod folder at "resources\_common\drs\sounds" and renaming it as the "identifier.wem" we want
+
+
 ## 🎧 How to EQ In-Game Sound Effects (AOE2:DE)
 
 ---
@@ -64,27 +90,3 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 - Export the files as `.wem`
 
   ![export screenshot](quietsoundmod/scr6.png)
-### Finding the correct Identifier for the  `.wem` (for Use in a Mod)
-
-- The sound effect you are looking for might be in StepS's Spreadsheet
-- https://docs.google.com/spreadsheets/d/1bczdFQksnbLnjI5zAkw-mSpb9MnnxxEkHDiz1PftIHw/edit
-
-- If you can't find it there you might be able to find it with the AdvancedGenieEditor
-- Open the game folder
-
- ![steam](quietsoundmod/scr18.png)
-
-- Open Tools-Builds/AdvancedGenieEditor.exe
-- Select "Age of Empires II: Definitive Edition" and hit "Open"
-
- ![open](quietsoundmod/scr19.png)
-
-- Find the ingame unit and then scroll down until you reach the section on sound effects.
-
-![open](quietsoundmod/scr20.png)
- ![open](quietsoundmod/scr21.png)
-  
-### Replacing and/or Muting Sound Effects
-- The only thing you need is the Identifier (for Use in a Mod).
-- The "Original Sounds" Mod from StepS included a "stub" audio file that is only 1kb and empty. (also included in the Mods "Pasture Mute", "Quiet Sound Mod", ...)
-- We can use this to overwrite any sound effect by putting it in our mod folder at "resources\_common\drs\sounds" and renaming it as the "identifier.wem" we want
