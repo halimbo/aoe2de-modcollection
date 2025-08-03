@@ -27,3 +27,6 @@ How to convert a .wav file to a .wem file to use as a mod
 11. ![Screenshot](quietsoundmod/scr5.png)
 12. Export them as .wem
 13. ![Screenshot](quietsoundmod/scr6.png)
+
+How do you get the .wem files from the game if you cant get them by subscribing to an already built Mod?
+![Screenshot](quietsoundmod/scr13.png)
