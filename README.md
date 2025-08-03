@@ -1,5 +1,18 @@
 # aoe2de-modcollection
-How to convert a .wav file to a .wem file
+
+How to convert a .wem file to a .wav file so you can eq it with audacity
+
+1. Install vgmstream command line tool
+2. ![Screenshot](quietsoundmod/scr16.png)
+3. open the extracted vgmstream folder in a terminal
+4. ![Screenshot](quietsoundmod/scr12.png)
+5. ![Screenshot](quietsoundmod/scr9.png)
+6. Copy your .wem file as a path
+7. ![Screenshot](quietsoundmod/scr10.png)
+8. "-o sound.wav" lets you specify the new name
+9. ![Screenshot](quietsoundmod/scr11.png)
+
+How to convert a .wav file to a .wem file to use as a mod
 
 1. Install WWise Launcher
 2. Have to make an account, and you are not allowed to use it commercially
@@ -14,14 +27,3 @@ How to convert a .wav file to a .wem file
 11. ![Screenshot](quietsoundmod/scr5.png)
 12. Export them as .wem
 13. ![Screenshot](quietsoundmod/scr6.png)
-
-How to convert a .wem file to a .wav file so you can eq it with audacity
-
-1. Install vgmstream command line tool
-2. ![Screenshot](quietsoundmod/scr16.png)
-3. open the extracted vgmstream folder in a terminal
-4. ![Screenshot](quietsoundmod/scr12.png)
-5. Copy your .wem file as a path
-6. ![Screenshot](quietsoundmod/scr10.png)
-7. "-o sound.wav" lets you specify the new name
-8. ![Screenshot](quietsoundmod/scr11.png)
