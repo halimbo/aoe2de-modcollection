@@ -67,12 +67,16 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 ### 🔁 Finding the correct Identifier for the  `.wem` (for Use in a Mod)
 
 - Open the game folder
-  ![steam](quietsoundmod/scr19.png)
+
+ ![steam](quietsoundmod/scr18.png)
 
 - Open Tools-Build/AdvancedGenieEditor.exe
 - Select "Age of Empires II: Definitive Edition" and hit "Open"
 
- ![open](quietsoundmod/scr20.png)
+ ![open](quietsoundmod/scr19.png)
 
+- Find the ingame unit and then scroll down until you reach the section on sound effects.
 
+![open](quietsoundmod/scr20.png)
+ ![open](quietsoundmod/scr21.png)
   
