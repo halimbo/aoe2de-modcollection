@@ -30,3 +30,4 @@ How to convert a .wav file to a .wem file to use as a mod
 
 How do you get the .wem files from the game if you cant get them by subscribing to an already built Mod?
 ![Screenshot](quietsoundmod/scr13.png)
+https://www.scampers.org/steve/sms/other.htm#ravioli_download
