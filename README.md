@@ -64,7 +64,7 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 - Export the files as `.wem`
 
   ![export screenshot](quietsoundmod/scr6.png)
-### 🔁 Convert `.wav` Back to `.wem` (for Use in a Mod)
+### 🔁 Finding the correct Identifier for the  `.wem` (for Use in a Mod)
 
 - Open the game folder
   ![steam](quietsoundmod/scr19.png)
