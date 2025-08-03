@@ -8,3 +8,4 @@ Compilation of Mods for Age Of Empires 2
 5. Set the Source Encoding to "Vorbis High Quality"
 6. ![Screenshot](quietsoundmod/scr1.png)
 7. ![Screenshot](quietsoundmod/scr2.png)
+8. ![Screenshot](quietsoundmod/scr3.png)
