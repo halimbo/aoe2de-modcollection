@@ -90,3 +90,5 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 - Export the files as `.wem`
 
   ![export screenshot](quietsoundmod/scr6.png)
+
+  ALL CREDIT GOES TO STEPS 
