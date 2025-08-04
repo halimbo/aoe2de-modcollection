@@ -23,7 +23,7 @@
 ### Replacing and/or Muting Sound Effects
 - If you want to mute something, all you need is the correct Identifier of the corresponding sound effect and a "stub" audio file (for Use in a Mod).
 - The "Original Sounds" Mod from StepS included a "stub" audio file that is only 1kb and empty. (also included in the Mods "Pasture Mute", "Quiet Sound Mod", ...)
-- We can use this to overwrite any sound effect by putting it in our mod folder at "resources\_common\drs\sounds" and renaming it as the "identifier.wem" we want
+- We can use this to overwrite any sound effect by putting it in our mod folder at "resources/_common/drs/sounds" and renaming it as the "identifier.wem" we want
 
 
 ## 🎧 How to EQ In-Game Sound Effects (AOE2:DE)
@@ -91,6 +91,7 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 
   ![export screenshot](quietsoundmod/scr6.png)
 
-- Now you can test your modded audio file by putting it in your mod folder into **/local/mysoundmod/resources/_common/drs/sounds**
+- Just as a notice, your aoe2 mods are not stored where the base game is, but next to the folder where your replays are saved, the folders name is your steam-id.
+- Now you can test your modded audio file by putting it in your mods folder into **/mods/local/mysoundmod/resources/_common/drs/sounds**
 
   ***All Credit goes to StepS and the aoe2 mod community***
