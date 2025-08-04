@@ -91,4 +91,6 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 
   ![export screenshot](quietsoundmod/scr6.png)
 
-  ALL CREDIT GOES TO STEPS 
+- Now you can test your modded audio file by putting it in your mod folder into **/local/mysoundmod/resources/_common/drs/sounds**
+
+  ***All Credit goes to StepS and the aoe2 mod community***
