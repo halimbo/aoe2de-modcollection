@@ -16,7 +16,7 @@
  ![open](quietsoundmod/scr19.png)
 
 - Find the ingame unit and then scroll down until you reach the section on sound effects.
-
+- Note: Please ignore the fact that the soundfiles in the Editor show the `.wav` extension, for all our purposes aoe2 sound mods use `.wem` files.
 ![open](quietsoundmod/scr20.png)
  ![open](quietsoundmod/scr21.png)
   
