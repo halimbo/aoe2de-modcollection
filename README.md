@@ -34,7 +34,7 @@
 
 If you can't get `.wem` files by subscribing to an existing mod, here's how:
 
-- Locate the in-game sound files (In your steam game-folder at **wwise**)
+- Locate the in-game sound files (In your steam game-folder inside **/wwise**)
   
   ![Game files screenshot](quietsoundmod/scr13.png)
 
