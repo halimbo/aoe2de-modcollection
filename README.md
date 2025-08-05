@@ -48,8 +48,9 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
   ![foobar screenshot](quietsoundmod/scr7.png)
   
 ### Renaming the extracted files 
-⚠️ IMPORTANT NOTICE: The audio files extracted using Ravioli are mislabeled with a .wav extension. However, they are actually .wem files in disguise. For compatibility with the Foobar plugin, these files must be renamed with the correct .wem extension. Below are commands to batch rename all .wav files to .wem:
-
+⚠️ IMPORTANT NOTICE: The audio files extracted using Ravioli are mislabeled with a .wav extension. However, they are actually .wem files in disguise. For compatibility with the Foobar plugin, these files must be renamed with the correct .wem extension. Below are commands to batch rename all .wav files in the current directory to .wem:
+⚠️ WARNING: These commands will irreversibly rename all .wav files in the current directory.
+Only proceed if you're certain that the only `.wav` files in your current directory are the ones that were extracted from Ravioli (`.wem` in disguise). Create a backup if needed.
 ### PowerShell
 
 ```Get-ChildItem *.wav | Rename-Item -NewName { $_.Name -replace '\.wav$', '.wem' }```
