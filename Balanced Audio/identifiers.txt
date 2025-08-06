@@ -1,0 +1,27 @@
+ORIGINAL SOUNDS MOD from StepS
+	MRKT.wem "Market" 
+
+MUTED
+	Button_UI.wem "Clicking or Hotkey a button on the UI" 
+	Error.wem "Not having enough resources to queue unit/tech"
+	FARM.wem "Seeding/Reseeding a Farm"
+	STBL.wem "Stable" 
+	WCTW.wem "Tower" 
+
+LOWERED VOLUME
+	civboats.wem "Fishing Ships"
+	DOCK.wem 
+	Flare.wem 
+	onager.wem 
+	scorp.wem
+	ready.wem "Villager Spawn"
+	readym_archer.wem "Units spawn"
+	readym_cavarcher.wem
+	readym_cavmelee.wem
+	readym_elephant.wem
+	readym_melee.wem
+	readym_siege.wem
+	readym_siegeman.wem
+	RTWC.wem "Town Center"
+	Town_Under_Attack.wem "Villagers being attacked"
+	Under_Attack.wem "Military Units being attacked"

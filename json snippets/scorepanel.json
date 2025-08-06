@@ -1,0 +1,81 @@
+PLACE IT AT TOP RIGHT CORNER / ALIGNING FROM TOPRIGHT TO BOTTOMLEFT
+{
+  "Collection": {
+    "Name": "ScorePanel",
+    "ViewPort": {
+      "xorigin": 3844,
+      "yorigin": -4,
+      "width": 3840,
+      "height": 2160,
+      "alignment": "TopRight"
+    },
+    "Widgets": [{
+      "Widget": {
+        "Type": "Surround",
+        "Name": "Background",
+        "ViewPort": {
+          "xorigin": 3844,
+          "yorigin": -4,
+          "width": 400,
+          "height": 400,
+          "alignment": "TopRight"
+        },
+        "ZPlane": 1,
+        "Box": {
+          "xorigin": 3844,
+          "yorigin": -4,
+          "width": 400,
+          "height": 400,
+          "alignment": "TopRight",
+          "gridstep": 32,
+          "drawbox": true
+        },
+        "StateMaterials": {
+          "StateTLDisabled": {
+            "Material": "BlackPanel_TL"
+          },
+PLACEHOLDER STATEMATERIALS
+          "StateBRNormal": {
+            "Material": "BlackPanel_BR"
+          }
+        },
+        "ChildWidgets": [
+          {
+            "Widget": {
+              "Type": "Anchor",
+              "Name": "FontsHolder",
+              "Anchor": {
+                "xorigin": 28,
+                "yorigin": 24,
+                "alignment": "BottomRight"
+              },
+              "StateMaterials": {
+                "UserStates": 1,
+                "UserState0": {
+                  "Font": {
+                    "FontIndex": 3,
+                    "PointSize": 48,
+                    "Style": "Normal",
+                    "TextColor": {
+                      "r": 1,
+                      "g": 1,
+                      "b": 1,
+                      "a": 255
+                    },
+                    "TextOutlineWidth": 0.1,
+                    "TextOutlineColor": {
+                      "r": 1,
+                      "g": 1,
+                      "b": 1,
+                      "a": 255
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }]
+  }
+}
