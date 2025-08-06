@@ -8,17 +8,17 @@
 - If you can't find it there you might be able to find it with the AdvancedGenieEditor
 - Open the game folder
 
- ![steam]("Balanced Audio"/scr18.png)
+ ![steam](screenshots/scr18.png)
 
 - Open Tools-Builds/AdvancedGenieEditor.exe
 - Select "Age of Empires II: Definitive Edition" and hit "Open"
 
- ![open]("Balanced Audio"/scr19.png)
+ ![open](screenshots/scr19.png)
 
 - Find the ingame unit and then scroll down until you reach the section on sound effects.
 - Note: Please ignore the fact that the soundfiles in the Editor show the `.wav` extension, for all our purposes aoe2 sound mods use `.wem` files.
-![open]("Balanced Audio"/scr20.png)
- ![open]("Balanced Audio"/scr21.png)
+![open](screenshots/scr20.png)
+ ![open](screenshots/scr21.png)
   
 ### Replacing and/or Muting Sound Effects
 - If you want to mute something, all you need is the correct Identifier of the corresponding sound effect and a "stub" audio file (for Use in a Mod).
@@ -36,7 +36,7 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 
 - Locate the in-game sound files (In your steam game-folder inside **/wwise**)
   
-  ![Game files screenshot](quietsoundmod/scr13.png)
+  ![Game files screenshot](screenshots/scr13.png)
 
 - Download **Ravioli Extractor**  
   [https://www.scampers.org/steve/sms/other.htm#ravioli_download](https://www.scampers.org/steve/sms/other.htm#ravioli_download)
@@ -44,8 +44,8 @@ If you can't get `.wem` files by subscribing to an existing mod, here's how:
 - Use **foobar2000** + **vgmstream plugin** to preview and find the audio you want:  
   [https://vgmstream.org/](https://vgmstream.org/)
 
-  ![vgmstream screenshot](quietsoundmod/scr17.png)  
-  ![foobar screenshot](quietsoundmod/scr7.png)
+  ![vgmstream screenshot](screenshots/scr17.png)  
+  ![foobar screenshot](screenshots/scr7.png)
   
 ### Renaming the extracted files 
 ⚠️ IMPORTANT NOTICE: The audio files extracted using Ravioli are mislabeled with a .wav extension. However, they are actually .wem files in disguise. For compatibility with the Foobar plugin, these files must be renamed with the correct .wem extension. Below are commands to batch rename all .wav files in the current directory to .wem:
@@ -63,12 +63,12 @@ Only proceed if you're certain that the only `.wav` files in your current direct
 
 - Install **vgmstream command-line tool**
 
-  ![vgmstream folder](quietsoundmod/scr16.png)
+  ![vgmstream folder](screenshots/scr16.png)
 
 - Open the folder in a terminal:
 
-  ![terminal open](quietsoundmod/scr12.png)  
-  ![terminal view](quietsoundmod/scr9.png)
+  ![terminal open](screenshots/scr12.png)  
+  ![terminal view](screenshots/scr9.png)
 
 - Copy the path of your `.wem` file
 
@@ -76,7 +76,7 @@ Only proceed if you're certain that the only `.wav` files in your current direct
 
 - Use the `-o sound.wav` option to name your output file
 
-  ![output screenshot](quietsoundmod/scr11.png)
+  ![output screenshot](screenshots/scr11.png)
 
 ---
 
@@ -88,18 +88,18 @@ Only proceed if you're certain that the only `.wav` files in your current direct
 - Create a new Wwise project
 - Set **Source Encoding** to `"Vorbis High Quality"`
 
-  ![wwise encoding](quietsoundmod/scr1.png)  
-  ![wwise settings](quietsoundmod/scr2.png)  
-  ![wwise UI](quietsoundmod/scr3.png)
+  ![wwise encoding](screenshots/scr1.png)  
+  ![wwise settings](screenshots/scr2.png)  
+  ![wwise UI](screenshots/scr3.png)
 
 - Import your `.wav` files
 
-  ![upload files](quietsoundmod/scr4.png)  
-  ![file list](quietsoundmod/scr5.png)
+  ![upload files](screenshots/scr4.png)  
+  ![file list](screenshots/scr5.png)
 
 - Export the files as `.wem`
 
-  ![export screenshot](quietsoundmod/scr6.png)
+  ![export screenshot](screenshots/scr6.png)
 
 - By default, Wwise exports these into your `Documents` Windows-Folder in the `.cache` directory of the Project.
 
