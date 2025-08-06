@@ -101,7 +101,9 @@ Only proceed if you're certain that the only `.wav` files in your current direct
 
   ![export screenshot](quietsoundmod/scr6.png)
 
-- Just as a notice, your aoe2 mods are not stored where the base game is, but next to the folder where your replays are saved, the folders name is your steam-id.
+- By default, Wwise exports these into your `Documents` Windows-Folder in the `.cache` directory of the Project.
+
+- Just as a notice, your aoe2 mods are not stored where the base game is (opening game files through steam), but next to the folder where your Replays are saved, the folders name is your steam-id.
 - Now you can test your modded audio file by putting it in your mods folder into **/mods/local/mysoundmod/resources/_common/drs/sounds**
 
   ***All Credit goes to StepS and the aoe2 mod community***
