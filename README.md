@@ -8,17 +8,17 @@
 - If you can't find it there you might be able to find it with the AdvancedGenieEditor
 - Open the game folder
 
- ![steam](quietsoundmod/scr18.png)
+ ![steam]("Balanced Audio"/scr18.png)
 
 - Open Tools-Builds/AdvancedGenieEditor.exe
 - Select "Age of Empires II: Definitive Edition" and hit "Open"
 
- ![open](quietsoundmod/scr19.png)
+ ![open]("Balanced Audio"/scr19.png)
 
 - Find the ingame unit and then scroll down until you reach the section on sound effects.
 - Note: Please ignore the fact that the soundfiles in the Editor show the `.wav` extension, for all our purposes aoe2 sound mods use `.wem` files.
-![open](quietsoundmod/scr20.png)
- ![open](quietsoundmod/scr21.png)
+![open]("Balanced Audio"/scr20.png)
+ ![open]("Balanced Audio"/scr21.png)
   
 ### Replacing and/or Muting Sound Effects
 - If you want to mute something, all you need is the correct Identifier of the corresponding sound effect and a "stub" audio file (for Use in a Mod).
