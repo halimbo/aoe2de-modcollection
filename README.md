@@ -21,7 +21,7 @@
  ![open](screenshots/scr21.png)
   
 ### Replacing and/or Muting Sound Effects
-- If you want to mute something, all you need is the correct Identifier of the corresponding sound effect and a "stub" audio file (for Use in a Mod).
+- If you want to mute something, all you need is the correct Identifier of the corresponding sound effect and a "stub" audio file (for use in a mod).
 - The "Original Sounds" Mod from StepS included a "stub" audio file that is only 1kb and empty. (also included in the Mods "Pasture Mute", "Quiet Sound Mod", ...)
 - We can use this to overwrite any sound effect by putting it in our mod folder at "resources/_common/drs/sounds" and renaming it as the "identifier.wem" we want
 
